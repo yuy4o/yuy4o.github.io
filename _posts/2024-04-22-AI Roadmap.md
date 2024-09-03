@@ -22,7 +22,7 @@ tags: [ai, roadmap]
 
 Paper Reading：
 
-[OpenReview.net](https://openreview.net/)，[一译](https://yiyibooks.cn/)，[PaperswithCode](https://paperswithcode.com/)，[arxiv-sanity](https://arxiv-sanity-lite.com/)，[dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)，[paperweekly](https://www.paperweekly.info/)
+[OpenReview.net](https://openreview.net/)，[一译](https://yiyibooks.cn/)，[PaperswithCode](https://paperswithcode.com/)，[arxiv-sanity](https://arxiv-sanity-lite.com/)，[dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
 
 Forum / Community：
 
@@ -102,6 +102,8 @@ Forum / Community：
 [李航机器学习方法pdf](https://www.tup.tsinghua.edu.cn/upload/books/yz/093532-01.pdf)
 
 [龙书 TensorFlow深度学习 代码及pdf](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
+
+[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)，[Machine Learning Systems](https://harvard-edge.github.io/cs249r_book/)
 
 [大规模语言模型从理论到实践pdf](https://intro-llm.github.io/chapter/LLM-TAP.pdf)
 
