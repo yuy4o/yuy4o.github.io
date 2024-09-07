@@ -105,13 +105,15 @@ Forum / Community：
 
 [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)，[Machine Learning Systems](https://harvard-edge.github.io/cs249r_book/)
 
-[大规模语言模型从理论到实践pdf](https://intro-llm.github.io/chapter/LLM-TAP.pdf)
-
 [北大数学李东风](https://www.math.pku.edu.cn/teachers/lidf/)，[概率统计讲义](https://www.math.pku.edu.cn/teachers/lidf/course/probstathsy/probstathsy.pdf)
 
 [北大数学张志华](https://www.math.pku.edu.cn/teachers/zhzhang/)，[深度强化学习](https://www.math.pku.edu.cn/teachers/zhzhang/drl_v1.pdf)
 
+[强化学习资料汇总](https://taospirit.github.io/2019/04/15/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8/)
+
 [FORECASTING: PRINCIPLES AND PRACTICE](https://otexts.com/) statistics
+
+[大规模语言模型从理论到实践pdf](https://intro-llm.github.io/chapter/LLM-TAP.pdf)
 
 **GitHub：**
 
