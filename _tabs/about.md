@@ -16,8 +16,6 @@ order: 4
 
 [Interview](https://yuy4o.github.io/interview/) <- 实习经验和校招面经
 
-[ACSE](https://yuy4o.github.io/acse/) <- 硕士课程
-
 [yuy4o](https://yuy4o.github.io/yuy4o/) <- 转载系列文章如VS Code Tutorials，ACM Template
 
 ---
