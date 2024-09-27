@@ -70,11 +70,19 @@ Calculate Linux：基于 Gentoo 的发行版，提供了开箱即用的桌面和
 
 高级用户和开发者：Arch Linux 和 Gentoo 提供了高度的自定义和控制
 
-[最全Linux的发行版简介，一文读懂各发行版之间的联系和区别](https://cloud.tencent.com/developer/article/1114589)，[浅谈Linux下dpkg、apt-get、yum和rpm命令的区别](https://cloud.tencent.com/developer/article/1759038)，[维基-Linux发行版列表](https://zh.wikipedia.org/wiki/Linux%E5%8F%91%E8%A1%8C%E7%89%88%E5%88%97%E8%A1%A8)，[维基-Linux发行版](https://zh.wikipedia.org/wiki/Linux%E5%8F%91%E8%A1%8C%E7%89%88)
+[最全Linux的发行版简介，一文读懂各发行版之间的联系和区别](https://cloud.tencent.com/developer/article/1114589)
+
+[浅谈Linux下dpkg、apt-get、yum和rpm命令的区别](https://cloud.tencent.com/developer/article/1759038)
+
+[维基-Linux发行版列表](https://zh.wikipedia.org/wiki/Linux%E5%8F%91%E8%A1%8C%E7%89%88%E5%88%97%E8%A1%A8)
+
+[维基-Linux发行版](https://zh.wikipedia.org/wiki/Linux%E5%8F%91%E8%A1%8C%E7%89%88)
 
 ![240421linuxpkg](https://raw.githubusercontent.com/yuy4o/yuy4o/main/figures/240421linuxpkg.png)
 
 [DistroWatch.com](https://distrowatch.com/)
+
+[Rpmfind mirror](https://www.rpmfind.net/)
 
 ## Community
 
