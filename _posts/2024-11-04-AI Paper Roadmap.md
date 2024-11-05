@@ -78,4 +78,6 @@ edge + Trancy（网页选中文字） + 沉浸式翻译（PDF右键翻译全文�
 
 ## management
 
-[Zotero](https://brucehan.top/2020/02/04/zotero/)
+[Zotero](https://brucehan.top/2020/02/04/zotero/) 利用 [Koofr](https://app.koofr.net/) 配置 WebDAV 同步文件：[链接1](https://www.bilibili.com/read/cv14910894/) [链接2](https://www.chirmyram.top/archives/onedrivewebdav)
+
+[Zotero plugins](https://www.zotero.org/support/plugins)
