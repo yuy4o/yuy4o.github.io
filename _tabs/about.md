@@ -21,7 +21,7 @@ order: 4
 ---
 ## 个人账号
 
-[X](https://twitter.com/yuy4o)，[Discord](https://discord.com/)，[Reddit](https://www.reddit.com/user/yuy4oj/)，[mastodon/mastodon.social](https://mastodon.social/@yuy4o)，[mastodon/universeodon.com](https://universeodon.com/@yuy4o)，[Instagram](https://www.instagram.com/yuy4oj/)，[Twitch](https://www.twitch.tv/yuy4oj)
+[X](https://twitter.com/yuy4o)，[Discord](https://discord.com/)，[Reddit](https://www.reddit.com/user/yuy4oj/)，[mastodon/mastodon.social](https://mastodon.social/@yuy4o)，[mastodon/universeodon.com](https://universeodon.com/@yuy4o)，[Instagram](https://www.instagram.com/yuy4oj/)，[Twitch](https://www.twitch.tv/yuy4oj)，[Imperial Plexus](https://plexus.imperial.ac.uk/)
 
 [知乎](https://www.zhihu.com/people/yj522_)，[小红书](https://www.xiaohongshu.com/user/profile/644cd4f4000000000f004aa6)，[微博](https://weibo.com/u/5482568065)，[博客园](https://home.cnblogs.com/u/2468749)
 
