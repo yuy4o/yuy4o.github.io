@@ -54,6 +54,8 @@ ECCV的全称是European Conference onComputer Vision，即欧洲计算机视觉
 
 [Digital Bibliography & Library Project](https://dblp.uni-trier.de/)
 
+[conf.researchr.org CMS](https://conf.researchr.org/)
+
 [Computer Vision Foundation](https://openaccess.thecvf.com/menu)
 
 [Reinforcement Learning Journal](https://rlj.cs.umass.edu/)
