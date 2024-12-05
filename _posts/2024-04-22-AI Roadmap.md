@@ -8,6 +8,8 @@ tags: [ai, roadmap]
 ## Follow Daily (for instant viewing)
 1
 
+[Lil'Log](https://lilianweng.github.io/)，[colah's blog](http://colah.github.io/)
+
 [Github Trending](https://github.com/trending)，[Hugging Face Blog Articles](https://huggingface.co/blog)，[Medium](https://medium.com/)，[X](https://twitter.com/home)，[YouTube](https://www.youtube.com/)，[Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)，[Deepmind Research Publications](https://deepmind.google/research/publications/)，[The latest AI news from Meta](https://ai.meta.com/blog/)，[Qwenlm](https://qwenlm.github.io/)，[wandb](https://wandb.ai/fully-connected)及[主页](https://wandb.ai/yuy4o)，[anthropic monthly](https://transformer-circuits.pub/)，[anthropic news](https://www.anthropic.com/news)，[GettingStarted](https://www.gettingstarted.ai/)，[the-decoder](https://the-decoder.com/)，[TheAIGRID](https://www.youtube.com/@TheAiGrid)
 
 [量子位](https://www.qbitai.com/)，[机器之心](https://www.jiqizhixin.com/)，[鲟曦研习社](https://www.kuxai.com/)，[智源社区](https://hub.baai.ac.cn/)，[腾讯云开发者社区](https://cloud.tencent.com/developer/user/10335767)，[B站良睦路程序员](https://space.bilibili.com/45156039)，[B站小工蚁创始人](https://space.bilibili.com/478674499)，[闲记算法每日论文](https://lonePatient.github.io)
@@ -20,13 +22,9 @@ tags: [ai, roadmap]
 
 [小角龙的学习笔记](https://zhang-each.github.io/My-CS-Notebook/)，[HUSTAI知识分享](https://hustai.gitee.io/zh/)，[Verlocksss技术笔记](https://www.zhihu.com/column/c_1663274672774070272)，[土猛的员外笔记](https://luxiangdong.com/)，[MartinLwx's blog](https://martinlwx.github.io/zh-cn/)，[AIMultiple](https://research.aimultiple.com/)，[Deep Learning Garden](https://deeplearning.lipingyang.org/)，[夕小瑶](https://www.nousbuild.org/codelab/tsxiyao/)，[知乎陈震](https://www.zhihu.com/people/chen-zhen-70-41/)，[知乎忆臻-论文速递](https://www.zhihu.com/people/qinlibo_nlp)
 
-Paper Reading：
+Forum / Community：[PyTorch](https://discuss.pytorch.org/)，[OpenAI](https://community.openai.com/)，[AI千集](https://aiqianji.com/blog/)，[OpenAI Cookbook](https://cookbook.openai.com/)，[IMAGENET](https://image-net.org/index.php)
 
-[OpenReview.net](https://openreview.net/)，[一译](https://yiyibooks.cn/)，[PaperswithCode](https://paperswithcode.com/)，[arxiv-sanity](https://arxiv-sanity-lite.com/)，[dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
-
-Forum / Community：
-
-[PyTorch](https://discuss.pytorch.org/)，[OpenAI](https://community.openai.com/)，[AI千集](https://aiqianji.com/blog/)，[OpenAI Cookbook](https://cookbook.openai.com/)，[IMAGENET](https://image-net.org/index.php)
+[AI Paper Reading](https://blog.yuy4o.com/posts/AI-Paper-Roadmap/)
 
 ## Course (for practice)
 [**dair-ai**](https://github.com/dair-ai)
@@ -56,8 +54,6 @@ Forum / Community：
 [D2L COURSES](https://course.d2l.ai/)，[动手学深度学习](https://zh-v2.d2l.ai/)，[知乎李沐的深度学习课](https://www.zhihu.com/education/video-course/1647604835598092705)
 
 [fengdu机器学习初学者](http://www.ai-start.com/)
-
-<!-- [fengdu机器学习初学者 <font color="red" face="Times New Roman" size=1>网址换http</font>](https://www.ai-start.com/) -->
 
 [mlfoundations](https://github.com/mlfoundations)
 
@@ -153,7 +149,7 @@ Forum / Community：
 
 [tangyudi/Ai-Learn](https://github.com/tangyudi/Ai-Learn/)
 
-## Interview Experience
+## AI Interview Experience
 
 [大白智能大厂面经](https://www.jiangdabai.com/大厂面试直通车)，[阿里技术岗](https://zhuanlan.zhihu.com/p/565656083)，[BAT_interviews](https://github.com/lengyue1024/BAT_interviews)，[Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)，[9个offer12家公司35场面试从微软到谷歌](https://blog.csdn.net/computerme/article/details/24589065)
 

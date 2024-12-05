@@ -8,7 +8,45 @@ tags: [ai, roadmap]
 
 [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools)
 
-## introduction
+## TIMELINE
+
+[aminer](https://www.aminer.cn/conf)，[Conference List](https://conferencelist.info/)，[CCF Deadlines](https://ccfddl.com/)
+
+## PAPER
+
+[<mark><font color="red" face="Times New Roman" size=5>arXiv</font></mark>](https://arxiv.org/)，[<mark><font color="red" face="Times New Roman" size=5>OpenReview.net</font></mark>](https://openreview.net/)，[<mark><font color="red" face="Times New Roman" size=5>Paper Digest</font></mark>](https://www.paperdigest.org/)，[<mark><font color="red" face="Times New Roman" size=5>Semantic Scholar</font></mark>](https://www.semanticscholar.org/)
+
+[Digital Bibliography & Library Project](https://dblp.org/)
+
+[conf.researchr.org CMS](https://conf.researchr.org/)
+
+[Computer Vision Foundation](https://openaccess.thecvf.com/menu)
+
+[Reinforcement Learning Journal](https://rlj.cs.umass.edu/)
+
+[IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+
+[CVPapers](http://www.cvpapers.com/)，[Computer Vision News Magazine](https://www.rsipvision.com/computer-vision-news/)
+
+## CODE
+
+[paperswithcode](https://paperswithcode.com/)
+
+[labml.ai Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
+
+## MANAGEMENT
+
+[Zotero](https://brucehan.top/2020/02/04/zotero/) 利用 [Koofr](https://app.koofr.net/) 配置 WebDAV 同步文件：[链接1](https://www.bilibili.com/read/cv14910894/) [链接2](https://www.chirmyram.top/archives/onedrivewebdav)
+
+[Zotero plugins](https://www.zotero.org/support/plugins)
+
+## EXTENSION
+
+Zotero Connector
+
+翻译：[小绿鲸](https://www.xljsci.com/)，[CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)，Edge + Trancy（网页选中文字） + 沉浸式翻译（PDF右键翻译全文）
+
+## VENUE
 
 一、机器学习领域
 
@@ -20,11 +58,11 @@ ICML全称为International Conferenceon Machine Learning，即国际机器学习
 
 ICML的会议论文均会被著名学术期刊JMLR收录，并免费提供给读者学习研究。用户可登陆网站http://www.jmlr.org/papers/ 浏览下载。
 
-**NIPS**
+**NeurIPS**
 
-NIPS全称为Conference and Workshop onNeural Information Processing Systems，即神经信息处理系统大会，是一个关于机器学习和计算神经科学领域的顶级国际会议。NIPS会议固定在每年12月举行，由NIPS基金会主办。2016年NIPS大会可谓火爆异常，初期就有2500篇投稿、3000多位审稿人，最终录取568篇，总体接收率23%，其中包含深度学习、计算机视觉、大规模机器学习、学习理论、优化、稀疏理论等众多领域的文章。会议收录的论文均可在其网站上免费浏览下载（网址：http://papers.nips.cc/ ）
+NeurIPS全称为Conference and Workshop on Neural Information Processing Systems，即神经信息处理系统大会，是一个关于机器学习和计算神经科学领域的顶级国际会议。NeurIPS会议固定在每年12月举行，由NeurIPS基金会主办。2016年NeurIPS大会可谓火爆异常，初期就有2500篇投稿、3000多位审稿人，最终录取568篇，总体接收率23%，其中包含深度学习、计算机视觉、大规模机器学习、学习理论、优化、稀疏理论等众多领域的文章。会议收录的论文均可在其网站上免费浏览下载
 
-需要注意的是，与ICML这样的“标准的”机器学习会议不同，NIPS里有相当一部分神经科学的内容, 和机器学习有一定的距离。
+需要注意的是，与ICML这样的“标准的”机器学习会议不同，NeurIPS里有相当一部分神经科学的内容, 和机器学习有一定的距离。
 
 二、视觉识别领域
 
@@ -45,41 +83,3 @@ CVPR是IEEE Conference onComputer Vision and Pattern Recognition的缩写，即I
 **ECCV**
 
 ECCV的全称是European Conference onComputer Vision，即欧洲计算机视觉国际会议。ECCV创办于1887 年，每两年举办一次。每次会议在全球范围录用论文，主要的录用论文都来自美国、欧洲等顶尖实验室及研究所，中国大陆的论文数量一般在10-20篇之间。ECCV 2016的有效论文投稿量为1561篇，录用论文 415 篇，录取率为26.6%。收录论文的主题覆盖了计算机视觉和模式识别的各个方向，包括：3D计算机视觉；计算摄影、传感与显示；脸和手势；低层视觉与图像处理；运动跟踪；识别：检测，分类，索引，匹配；分割、分组和形状表示；统计方法与学习等。
-
-## paper
-
-[arXiv](https://arxiv.org/)
-
-[OpenReview.net](https://openreview.net/)
-
-[Digital Bibliography & Library Project](https://dblp.uni-trier.de/)
-
-[conf.researchr.org CMS](https://conf.researchr.org/)
-
-[Computer Vision Foundation](https://openaccess.thecvf.com/menu)
-
-[Reinforcement Learning Journal](https://rlj.cs.umass.edu/)
-
-[IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
-
-[CVPapers](http://www.cvpapers.com/)，[Computer Vision News Magazine](https://www.rsipvision.com/computer-vision-news/)
-
-## code
-
-[paperswithcode](https://paperswithcode.com/)
-
-[labml.ai Deep Learning Paper Implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
-
-## timeline
-
-[aminer](https://www.aminer.cn/conf)
-
-## extension
-
-edge + Trancy（网页选中文字） + 沉浸式翻译（PDF右键翻译全文）+ Zotero Connector
-
-## management
-
-[Zotero](https://brucehan.top/2020/02/04/zotero/) 利用 [Koofr](https://app.koofr.net/) 配置 WebDAV 同步文件：[链接1](https://www.bilibili.com/read/cv14910894/) [链接2](https://www.chirmyram.top/archives/onedrivewebdav)
-
-[Zotero plugins](https://www.zotero.org/support/plugins)
