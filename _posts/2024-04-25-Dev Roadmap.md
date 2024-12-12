@@ -88,7 +88,7 @@ Java：[鱼皮的编程宝典](https://www.codefather.cn/)，[CODEGYM-LearnJava]
 
 Go：[GobyExample中文版](https://gobyexample-cn.github.io/)，[Go语言设计与实现](https://draveness.me/golang/)，[cnymw/GolangStudy](https://github.com/cnymw/GolangStudy)，[EffectiveGo](https://go.dev/doc/effective_go)，[极客兔兔](https://geektutu.com/)，[从零到生产：Go在Google的历程[译]](https://tonybai.com/)，[Go语言中文网](https://studygolang.com/)
 
-Python：[Python3Cookbook](https://python3-cookbook.readthedocs.io/zh-cn/latest/index.html)，[交互的Python数据分析入门](https://shixiangwang.github.io/pybook/)，[course](https://mathspp.com/)，[Python名词发音指南](https://greyli.com/pronounce-python/)
+Python：[Python最佳实践指南](https://pythonguidecn.readthedocs.io/)，[Python3Cookbook](https://python3-cookbook.readthedocs.io/zh-cn/latest/index.html)，[交互的Python数据分析入门](https://shixiangwang.github.io/pybook/)，[course](https://mathspp.com/)，[Python名词发音指南](https://greyli.com/pronounce-python/)
 
 RUST：[Rust语言圣经RustCourse](https://course.rs/about-book.html)，[《Programming Rust - Fast, Safe Systems Development》第2版的中文翻译](https://github.com/MeouSker77/ProgrammingRust)，[用Rust实现Lua解释器](https://wubingzheng.github.io/build-lua-in-rust/zh/PREFACE.html)
 
@@ -101,9 +101,6 @@ SQL：[SQL之母](http://sqlmother.yupi.icu/#/learn)
 DataBase：[Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 Flask：[Flask入门教程](https://kmno4-zx.github.io/falsk-study/#/)
-
-Tools: [我爱MAC](https://www.52mac.com/)，[激活office](https://massgrave.dev/)
-
 
 ## Frame
 

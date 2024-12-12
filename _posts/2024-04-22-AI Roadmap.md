@@ -149,7 +149,11 @@ Forum / Community：[PyTorch](https://discuss.pytorch.org/)，[OpenAI](https://c
 
 [tangyudi/Ai-Learn](https://github.com/tangyudi/Ai-Learn/)
 
-## AI Interview Experience
+## Others
+
+产品：[AI开源方案库-传递最新AI应用落地解决方案｜AIGCLINK](https://d.aigclink.ai/)
+
+可视化：[LLM Visualization](https://bbycroft.net/llm)
 
 [大白智能大厂面经](https://www.jiangdabai.com/大厂面试直通车)，[阿里技术岗](https://zhuanlan.zhihu.com/p/565656083)，[BAT_interviews](https://github.com/lengyue1024/BAT_interviews)，[Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources)，[9个offer12家公司35场面试从微软到谷歌](https://blog.csdn.net/computerme/article/details/24589065)
 
