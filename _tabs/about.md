@@ -51,6 +51,10 @@ Tools：[Internet Archive](https://archive.org/)，[犀牛书中文技术文档�
 
 HearthStone：[NGA玩家社区网址一](https://bbs.nga.cn/)、[网址二](https://nga.cn/)，[HSReplay.net](https://hsreplay.net/)，[旅法师营地](https://www.iyingdi.com/)
 
+LOL：[OP.GG](https://www.op.gg/champions)
+
+Sound track：[Artist](https://artlist.io/)
+
 ---
 ## Roadmap
 
