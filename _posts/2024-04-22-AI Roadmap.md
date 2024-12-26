@@ -8,7 +8,7 @@ tags: [ai, roadmap]
 ## Follow Daily (for instant viewing)
 1
 
-[Lil'Log](https://lilianweng.github.io/)，[colah's blog](http://colah.github.io/)
+[Lil'Log](https://lilianweng.github.io/)，[Interconnects](https://www.interconnects.ai/)，[colah's blog](http://colah.github.io/)
 
 [Github Trending](https://github.com/trending)，[Hugging Face Blog Articles](https://huggingface.co/blog)，[Medium](https://medium.com/)，[X](https://twitter.com/home)，[YouTube](https://www.youtube.com/)，[Meta AI Publications](https://ai.meta.com/resources/)，[Deepmind Research Publications](https://deepmind.google/research/publications/)，[anthropic monthly](https://transformer-circuits.pub/)，[Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)，[Qwenlm](https://qwenlm.github.io/)，[wandb](https://wandb.ai/fully-connected)及[主页](https://wandb.ai/yuy4o)，[anthropic research](https://www.anthropic.com/research)，[the-decoder](https://the-decoder.com/)，[GettingStarted](https://www.gettingstarted.ai/)，[TheAIGRID](https://www.youtube.com/@TheAiGrid)
 
