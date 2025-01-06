@@ -49,6 +49,8 @@ Forum / Community：[PyTorch](https://discuss.pytorch.org/)，[OpenAI](https://c
 
 [SMRI-Machine Learning for the Working Mathematician](https://sites.google.com/view/mlwm-seminar-2022/home)
 
+[Applied Deep Learning 2024](https://www.csie.ntu.edu.tw/~miulab/f113-adl/)，[YUN-NUNG (VIVIAN) CHEN](https://www.csie.ntu.edu.tw/~yvchen/)
+
 [DeepLearning.AI](https://www.deeplearning.ai/)
 
 [D2L COURSES](https://course.d2l.ai/)，[动手学深度学习](https://zh-v2.d2l.ai/)，[知乎李沐的深度学习课](https://www.zhihu.com/education/video-course/1647604835598092705)
