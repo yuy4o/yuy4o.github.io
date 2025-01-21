@@ -16,7 +16,7 @@ Developer：
 
 Forum / Community：
 
-[编程导航](https://www.code-nav.cn/)，[知识星球](https://wx.zsxq.com/)，[一亩三分地](https://www.1point3acres.com/)，[V2EX](https://www.v2ex.com/)，[吾爱破解](https://www.52pojie.cn/)，[小众软件](https://meta.appinn.net/)，[华为](https://forum.huawei.com/enterprise/zh/index)
+[0xFFFF](https://0xffff.one/)，[编程导航](https://www.code-nav.cn/)，[一亩三分地](https://www.1point3acres.com/)，[V2EX](https://www.v2ex.com/)，[吾爱破解](https://www.52pojie.cn/)，[小众软件](https://meta.appinn.net/)，[华为](https://forum.huawei.com/enterprise/zh/index)
 
 ## Course (for practice) 
 
@@ -28,7 +28,7 @@ Forum / Community：
 
 [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-[Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/)，[计算机组成原理微课堂-湖科大教书匠](https://www.bilibili.com/video/BV1qG41197E4/)，[数据库系统概论-王珊](https://www.bilibili.com/video/BV1mM4y1K7Hm/)，[数据结构-陈越](https://www.bilibili.com/video/BV1qU4y1v7p2/)，[操作系统-李治军](https://www.bilibili.com/video/BV19r4y1b7Aw/)，[计算机网络自顶向下方法-郑烇](https://www.bilibili.com/video/BV1JV411t7ow/)
+[Crash Course Computer Science](https://www.bilibili.com/video/BV1EW411u7th/)，[计算机组成原理微课堂-湖科大教书匠](https://www.bilibili.com/video/BV1qG41197E4/)，[数据库系统概论-王珊](https://www.bilibili.com/video/BV1mM4y1K7Hm/)，[数据结构-陈越](https://www.bilibili.com/video/BV1qU4y1v7p2/)，[操作系统-李治军](https://www.bilibili.com/video/BV19r4y1b7Aw/)，[计算机网络自顶向下方法-郑烇](https://www.bilibili.com/video/BV1JV411t7ow/)，[南大计算机系统基础课程实验](https://nju-projectn.github.io/ics-pa-gitbook/)
 
 国外平台：[datacamp](https://www.datacamp.com/)，[udemy](https://www.udemy.com/)，[codecademy](https://www.codecademy.com/)，[CODECHEF](https://www.codechef.com/learn)，[Quick-R](https://www.statmethods.net/)，[freeCodeCamp](https://www.freecodecamp.org/)，[HackerRank](https://www.hackerrank.com/dashboard)，[w3schools](https://www.w3schools.com/)
 
@@ -44,7 +44,7 @@ Forum / Community：
 
 [阿秀的学习笔记](https://interviewguide.cn/)，[阿秀的求职笔记](https://forthespada.github.io/#/)
 
-[CS自学指南](https://csdiy.wiki/)，[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+[CS自学指南](https://csdiy.wiki/)，[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)，[UCB Course Guides](https://hkn.eecs.berkeley.edu/courseguides)
 
 [CS Plan](https://cs-plan.com/)，[MingLLuo/CS-Plan](https://github.com/MingLLuo/CS-Plan)
 
